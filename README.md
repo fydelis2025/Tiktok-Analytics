@@ -1,4 +1,4 @@
-Tiktok-Analytics
+##  Tiktok-Analytics
 Ferramenta de análise e extração de dados do TikTok
 📋 Descrição
 O Tiktok-Analytics é um projeto desenvolvido para coletar, processar e analisar dados públicos da plataforma TikTok, permitindo extrair métricas de desempenho de perfis, vídeos, tendências e hashtags. Ele oferece uma forma estruturada de obter informações valiosas para criação de conteúdo, estratégias de marketing e estudos de comportamento na plataforma.
